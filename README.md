@@ -18,4 +18,4 @@ Cunho: Social e segurança.
 
 - Linguagens necessárias: 
   - Mobile: Dart/Flutter, React Native, SQLITE
-  - Web: HTML, Css.
+  - Web: HTML, Css, JavaScipt, React JS.
